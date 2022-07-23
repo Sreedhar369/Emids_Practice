@@ -14,7 +14,7 @@ public class TestModel {
    
 	@Id
 	@Column
-	private int id;
+	private int iD;
 	@Column
 	private String name;
 	
