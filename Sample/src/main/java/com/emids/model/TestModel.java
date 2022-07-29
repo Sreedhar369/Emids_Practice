@@ -12,8 +12,7 @@ import org.hibernate.annotations.GeneratorType;
 @Table
 public class TestModel {
    
-	@Id
-	@Column
+	
 	private int iD;
 	@Column
 	private String name;
