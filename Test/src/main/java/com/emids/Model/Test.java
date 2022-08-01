@@ -12,7 +12,7 @@ public class Test {
 	@Id
 	//@GeneratorType(type=GenerationType.AUTO)
 	@Column
-	private int id;
+	private int iD;
 	@Column
 	private String name;
 	
